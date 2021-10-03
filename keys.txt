@@ -1,0 +1,9 @@
+Keys are provided when you create a twitter developer account and create a new project.
+The following keys are available in your project folder:
+
+1. Consumer API Key
+2. Consumer API Key Secret
+3. Access Token 
+4. Access Token Secret
+
+Copy these keys in a csv file and then use them in your code.
